@@ -276,7 +276,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="415" height="42" rx="18.0355" class="bubble" />
+     <rect width="415" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">자바와 스프링을 주로 사용하고 있습니다.</text>
   </g>
 
