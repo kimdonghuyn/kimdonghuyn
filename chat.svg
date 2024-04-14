@@ -302,7 +302,7 @@
   <!-- VELOG -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="270" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a href="https://velog.io/@kdh8983">VELOG</a> 에도 놀러오세요 !</text>
+    <text x="15" y="27"><a href="https://velog.io/@kdh8983/posts">VELOG</a> 에도 놀러오세요 !</text>
   </g>
 
   <!-- typing 5 -->
@@ -326,7 +326,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="350" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">앞으로 자주 보는 일이 있으면 좋겠습니다.</text>
+    <text x="15" y="27">앞으로 자주 보아요. <tspan class="emoji">🙋</tspan></text>
     <text x="15" y="47">좋은 하루 보내세요  <tspan class="emoji">👻</tspan></text>
   </g>
 </svg>
