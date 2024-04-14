@@ -325,8 +325,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="350" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">앞으로 자주 보아요. <tspan class="emoji">🙋</tspan></text>
+    <rect width="250" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">앞으로 자주 보아요. <tspan class="emoji">✋</tspan></text>
     <text x="15" y="47">좋은 하루 보내세요  <tspan class="emoji">👻</tspan></text>
   </g>
 </svg>
