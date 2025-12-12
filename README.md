@@ -26,8 +26,6 @@
 
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 
-<h2> Stats </h2>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimdonghuyn&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/>
 
 <h2>😺 Blog</h2>
 
