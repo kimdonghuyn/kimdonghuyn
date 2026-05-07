@@ -1,34 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+# 안녕하세요, 김동현입니다 👋
 
+백엔드 개발자를 목표로 매일 AI 기술 질문에 답변하며 성장하고 있습니다.
 
-<div align=left>
-  <br><br>
-  
-  
-<!--   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=🙋‍♀️) -->
-<!-- 
- [![soyeon207's github activity graph](https://activity-graph.herokuapp.com/graph?username=soyeon207&theme=monokai)](https://github.com/soyeon207/github-readme-activity-graph)
-   -->
+---
 
-<!-- 메시지 형식의 자기소개 --> 
-![https://github.com/kimdonghuyn/kimdonghuyn/blob/main/chat.svg](https://github.com/kimdonghuyn/kimdonghuyn/blob/main/chat.svg)
+## 🎮 Daily Study 현황
 
-</div>
+> 매일 08:00 AI가 백엔드 기술 질문 3문제를 발송 → 답변 → 정확도 채점 → XP 적립
 
+| | |
+|---|---|
+| **레벨** | Lv.1 |
+| **총 XP** | 40 / 100 |
+| **연속 학습** | 1일  |
+| **누적 학습일** | 2일 |
+| **완료 퀘스트** | 6개 |
 
-<h2>🛠️ Stacks</h2>
+**레벨 진행도**
+`████████░░░░░░░░░░░░`
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"> <a href='https://react.dev/'>![js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)</a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/>
+🏅 **획득 뱃지** 🔥 첫 불꽃
 
-<h2>💪🏼 Tools</h2> 
+---
 
- <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=GitLab&logoColor=orange"/> <img src="https://img.shields.io/badge/Jira-skyblue?style=flat-square&logo=Jira&logoColor=blue"/> 
+## 📅 최근 학습
 
+| 날짜 | 토픽 | 획득 XP |
+|------|------|---------|
+| 2026-05-07 | OOP 4대 원칙 (캡슐화, 상속, 다형성, 추상화) | +20 XP |
+| 2026-05-07 | OOP 4대 원칙 (캡슐화, 상속, 다형성, 추상화) | +20 XP |
 
-<h2>😺 Blog</h2>
+---
 
-Velog | https://velog.io/@kdh8983
+## 🛠 기술 스택
 
-<br>
+**Backend** · Java · Spring Boot · JPA · MySQL · Redis · Kafka
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdonghuyn&show_icons=true&theme=radical) -->
+**Infra** · Docker · AWS · GitHub Actions
+
+---
+
+> 🤖 이 프로필은 [daily-study-bot](https://github.com/kimdonghuyn/daily-study-bot)이 매일 자동으로 업데이트합니다. (마지막: 2026-05-07)
