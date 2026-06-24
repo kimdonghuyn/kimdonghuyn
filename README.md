@@ -11,13 +11,13 @@
 | | |
 |---|---|
 | **레벨** | Lv.2 |
-| **총 XP** | 102 / 250 |
-| **연속 학습** | 7일 🔥🔥 |
+| **총 XP** | 107 / 250 |
+| **연속 학습** | 8일 🔥🔥 |
 | **누적 학습일** | 1일 |
 | **완료 퀘스트** | 4개 |
 
 **레벨 진행도**
-`░░░░░░░░░░░░░░░░░░░░`
+`█░░░░░░░░░░░░░░░░░░░`
 
 🏅 **획득 뱃지** 🔥 첫 불꽃 · 📅 3일 연속 · 💪 일주일 전사 · 🚀 취준생의 각오
 
@@ -27,11 +27,11 @@
 
 | 날짜 | 토픽 | 획득 XP |
 |------|------|---------|
+| 2026-06-24 | JVM 메모리 구조 (Heap, Stack, Method Area) | +5 XP |
 | 2026-06-23 | JVM 메모리 구조 (Heap, Stack, Method Area) | +35 XP |
 | 2026-06-22 | JVM 메모리 구조 (Heap, Stack, Method Area) | +5 XP |
 | 2026-06-21 | JVM 메모리 구조 (Heap, Stack, Method Area) | +5 XP |
 | 2026-06-20 | JVM 메모리 구조 (Heap, Stack, Method Area) | +5 XP |
-| 2026-06-19 | JVM 메모리 구조 (Heap, Stack, Method Area) | +22 XP |
 
 ---
 
@@ -43,4 +43,4 @@
 
 ---
 
-> 🤖 이 프로필은 [daily-study-bot](https://github.com/kimdonghuyn/daily-study-bot)이 매일 자동으로 업데이트합니다. (마지막: 2026-06-23)
+> 🤖 이 프로필은 [daily-study-bot](https://github.com/kimdonghuyn/daily-study-bot)이 매일 자동으로 업데이트합니다. (마지막: 2026-06-24)
