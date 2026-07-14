@@ -1,8 +1,8 @@
 # 안녕하세요, 김동현입니다 👋
 
 <p align="center">
-  <a href="https://gitfut.com/kimdonghuyn">
-    <img src="https://gitfut.com/kimdonghuyn.png" width="280" alt="My GitFut card" />
+  <a href="https://gitfut.com/kimdonghuyn?country=KR">
+    <img src="https://gitfut.com/kimdonghuyn.png?country=KR" width="280" alt="My GitFut card" />
   </a>
 </p>
 
