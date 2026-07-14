@@ -1,11 +1,5 @@
 # 안녕하세요, 김동현입니다 👋
 
-<p align="center">
-  <a href="https://gitfut.com/kimdonghuyn?country=KR">
-    <img src="https://gitfut.com/kimdonghuyn.png?country=KR" width="280" alt="My GitFut card" />
-  </a>
-</p>
-
 ---
 
 ## 🎮 Daily Study 현황
@@ -15,8 +9,8 @@
 | | |
 |---|---|
 | **레벨** | Lv.3 |
-| **총 XP** | 269 / 500 |
-| **연속 학습** | 28일 🔥🔥 |
+| **총 XP** | 274 / 500 |
+| **연속 학습** | 29일 🔥🔥 |
 | **누적 학습일** | 4일 |
 | **완료 퀘스트** | 8개 |
 
@@ -31,11 +25,11 @@
 
 | 날짜 | 토픽 | 획득 XP |
 |------|------|---------|
+| 2026-07-14 | 상속과 다형성 | +5 XP |
 | 2026-07-13 | 상속과 다형성 | +5 XP |
 | 2026-07-12 | 상속과 다형성 | +5 XP |
 | 2026-07-11 | 상속과 다형성 | +5 XP |
 | 2026-07-10 | 상속과 다형성 | +5 XP |
-| 2026-07-09 | 상속과 다형성 | +15 XP |
 
 ---
 
@@ -47,4 +41,4 @@
 
 ---
 
-> 🤖 이 프로필은 [daily-study-bot](https://github.com/kimdonghuyn/daily-study-bot)이 매일 자동으로 업데이트합니다. (마지막: 2026-07-13)
+> 🤖 이 프로필은 [daily-study-bot](https://github.com/kimdonghuyn/daily-study-bot)이 매일 자동으로 업데이트합니다. (마지막: 2026-07-14)
