@@ -1,6 +1,8 @@
 # 안녕하세요, 김동현입니다 👋
 
-[![My GitFut card](https://gitfut.com/kimdonghuyn.png)](https://gitfut.com/kimdonghuyn)
+<a href="https://gitfut.com/kimdonghuyn">
+  <img src="https://gitfut.com/kimdonghuyn.png" width="300" alt="My GitFut card" />
+</a>
 ---
 
 ## 🎮 Daily Study 현황
